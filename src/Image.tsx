@@ -1,6 +1,5 @@
 import React from 'react'
 
-import { split, last } from 'ramda'
 import ModalImage from 'react-modal-image'
 
 interface IProps {
